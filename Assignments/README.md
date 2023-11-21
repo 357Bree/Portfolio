@@ -1,3 +1,3 @@
  # My  Portfolio
-   This is a webpage contaiining my portfolio.
+   This is a webpage containing my portfolio.
    
