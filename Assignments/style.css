@@ -1,0 +1,182 @@
+#body{
+    background-image: url(https://images.unsplash.com/photo-1503252947848-7338d3f92f31?auto=format&fit=crop&q=80&w=1631&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700px;
+    background-position: top;
+    color: white;
+    background-repeat: repeat;
+
+}
+.header{
+    margin: 1%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+
+}
+.nav{
+    display: flex;
+    margin: 1%;
+}
+
+#li{
+    color: goldenrod;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#li:hover{
+    background-color: whitesmoke;
+}
+
+#c1{
+    color: white;
+    float: left;
+    background-color: black;
+    font-weight: bolder;
+    font-size:large;
+    margin-right: 70%;
+    padding: 5%;
+    
+}
+#me-1{
+    position: relative;
+    height: 35vh;
+    margin-left: 0;
+    padding: 2%;
+}
+#me-1:hover{
+    height: 75vh;
+    transition: 3s;
+}
+#me{
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+}
+#bgd{
+    padding: 4%;
+    background-color:grey;
+    color: whitesmoke;
+    backdrop-filter: blur(4px);
+    font-size: large;
+}
+hr{
+    width: 100%;
+}
+#goals{
+    background-color: grey;
+    padding: 4%;
+    backdrop-filter: blur(4px);
+    font-size: larger;
+
+}
+#h1,#h2{
+    color: whitesmoke;
+}
+#skill{
+    padding: 3%;
+    background-color: grey;
+    border-bottom: 1px solid whitesmoke;
+    border-right: 1px solid whitesmoke;
+}
+#c2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#b&g{
+    background-color: gray;
+
+}
+#c3{
+    padding: 4%;
+    backdrop-filter: blur(4px);
+    background-color: rgba(0, 0, 0, 0.507);
+}
+#profile{
+    background-color: rgba(0, 0, 0, 0.582);
+    color: whitesmoke;
+    backdrop-filter: blur(8px);
+    margin-left: 60%;  
+}
+strong{
+    color: goldenrod;
+}
+.image{
+    height: 22vh;
+}
+
+.image:hover{
+    height: 25vh;
+    transition-duration: 1s;
+}
+
+#others{
+    text-align: center;
+    padding: 2%;
+    
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 4%;
+}
+#c5{
+    background-color: white;
+    color: black;
+    padding: 5%;
+}
+
+#h3{
+    color: goldenrod;
+}
+#card-title{
+    font-weight: bolder;
+}
+#card-img{
+    width: 29rem;
+}
+#v-m{
+    color: whitesmoke;
+}
+
+#h4{
+    color: white;
+}
+#myProgress{
+    width: 50%;
+    background-color: dimgrey;
+}
+#myBar{
+    width:90% ;
+    height: 5px;
+    background-color:darkgoldenrod ;
+}
+#myBar-1{
+    width:80% ;
+    height: 5px;
+    background-color:darkgoldenrod ;
+}
+#myBar-2{
+    width:88% ;
+    height: 5px;
+    background-color:darkgoldenrod ;
+}
+#myBar-3{
+    width:90% ;
+    height: 5px;
+    background-color:darkgoldenrod ;
+}
+#myBar-4{
+    width:89% ;
+    height: 5px;
+    background-color:darkgoldenrod ;
+}
+#myBar-5{
+    width:75% ;
+    height: 5px;
+    background-color:darkgoldenrod ;
+}
