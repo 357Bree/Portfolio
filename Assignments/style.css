@@ -180,3 +180,15 @@ footer{
     height: 5px;
     background-color:darkgoldenrod ;
 }
+
+#s1{
+    width: 5%;
+    background-color: goldenrod;
+}
+
+#soc{
+    width: 2%;
+    background-color: white;
+    justify-content: space-evenly;
+    
+}
